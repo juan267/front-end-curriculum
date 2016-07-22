@@ -1,0 +1,19 @@
+{
+  "name": "crud-app",
+  "version": "1.0.0",
+  "description": "mongo db crud express example",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "body-parser": "*",
+    "consolidate": "*",
+    "express": "*",
+    "mongodb": "*",
+    "nunjucks": "*"
+  },
+  "author": "juan267",
+  "license": "ISC"
+}

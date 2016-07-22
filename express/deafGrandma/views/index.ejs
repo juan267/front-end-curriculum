@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Abuela Sorda</title>
+</head>
+<body>
+  <div class="container">
+    <h1>Deaf Grandma</h1>
+    <% if (grandma) { %>
+      <p>La Abuela Dice: "<span id="grandma_says"><%= grandma %></span>"</p>
+    <% } %>
+
+    <!-- Este formulario envia datos (contenido en los elementos <input>) a la URL '/grandma' usando el protocolo HTTP converbo POST, el cual hace match con nuestras rutas enla url '/grandma' definida en routes/grandma.js -->
+    <form action="/grandma" method="post">
+      Dile algo a la abuela:
+      <br>
+      <input type="text" name="userInput">
+      <input type="submit" value="Dilo!">
+    </form>
+  </div>
+</body>
+</html>

@@ -1,0 +1,24 @@
+.display-tree-small{
+  background: url('../images/tree.jpeg');
+  background-repeat: no-repeat;
+  height:200px;
+  width:200px;
+  border: solid black 2px;
+}
+
+.display-tree-big{
+  background: url('../images/tree_big.jpg');
+  background-repeat: no-repeat;
+  height:1000px;
+  width:1000px;
+  border: solid black 2px;
+}
+
+.orange {
+  position: relative;
+  left: 10px;
+  top: 100px;
+  height:480px;
+  width: 875px;
+}
+#orange-tree-template { display: none; }
