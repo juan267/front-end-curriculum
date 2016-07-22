@@ -1,8 +1,5 @@
 # Busqueda Binaria
 
-##Objetivos de Aprendizaje
-
-* Implement Binary Search
 
 ##Resumen
 
@@ -24,7 +21,7 @@ Para aprender mas lee el articulo [Wikipedia article](http://en.wikipedia.org/wi
 
 ##Pasos
 
-###Paso 0 : Escribe el MVP del algoritmo [MVP](http://en.wikipedia.org/wiki/Minimum_viable_product) algorithm
+###Paso 0 : Escribe el MVP del algoritmo [MVP](http://en.wikipedia.org/wiki/Minimum_viable_product)
 
 Empieza por escribir que satisfasga el minimo producto viable ( MVP). TU algortimo deberia recibir como argumento un numero `objetivo` y un arreglo `ordenado` de forma creciente y devolver `true` o `false` para indicar si el `objetivo` se encuentra dentro del arreglo.
 
