@@ -31,7 +31,7 @@ En este repo vas a descargar un `dump` de una base de datos de peliculas. Un `du
 
 Para restuarar el `dump` sigue estos pasos:
 
--. Parate esobre el directorio `creating_documents` en la terminal y ejecuta el comando
+- Parate sobre el directorio `creating_documents` en la terminal y ejecuta el comando
 
 ```bash
 mongorestore dump
