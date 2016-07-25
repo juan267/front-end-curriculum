@@ -91,9 +91,7 @@ Añade un boton que de `reiniciar` el cual solo se puede presicionar cuando exis
 
 * [jQuery][]
 * [normalize.css][]
-* [Moxilla documentation for: keyup][keyup]
-* [Moxilla documentation for: keydown][keydown]
-* [Moxilla documentation for: keypress][keypress]
+* [Documentacion para: keyup][keyup]
 
 
 [jQuery]: http://learn.jquery.com/about-jquery/

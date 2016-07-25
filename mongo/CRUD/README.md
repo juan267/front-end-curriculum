@@ -34,7 +34,7 @@ Para restuarar el `dump` sigue estos pasos:
 - Parate sobre el directorio `creating_documents` en la terminal y ejecuta el comando
 
 ```bash
-mongorestore dump
+$ mongorestore dump
 ```
 Con este comando mongo crea una base de datos llamada `video`, la cual contiene las siguientes colecciones:
 
@@ -110,7 +110,7 @@ Usando la base de datos 'video', coleccion 'movieDetails'. Haz una consulta que 
 
 ###Paso 4: Leer, leyendo arreglos 2
 
-Usando la base de datos 'video', coleccion 'movieDetails'. Siguiendo la consulta anterior, haz una nueva consulta que nos indique cuantos documentos existen en la coleccion que listen los generos: "Comedy" y "Crime" como generos sin importar cuantos otros generos tenga la pelicula.
+Usando la base de datos `video`, coleccion `movieDetails`. Siguiendo la consulta anterior, haz una nueva consulta que nos indique cuantos documentos existen en la coleccion que listen los generos: "Comedy" y "Crime" como generos sin importar cuantos otros generos tenga la pelicula.
 
 ###Paso 5: Modificando
 
