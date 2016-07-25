@@ -27,9 +27,16 @@ Antes de empezar a trabajar asegurate de tener Mongo instalado en tu computador 
 
 ###Setup
 
-En este repo descargaste el `dump` de una base de datos de peliculas. Un `dump` basicamente es una copia de toda una base de datos para poder usarlo en nuestra instalacion de mongo tienes que hacer los siguientes pasos:
+En este repo vas a descargar un `dump` de una base de datos de peliculas. Un `dump` basicamente es una copia de toda una base de datos, el cual podemos restuarar en nuestro computador.
 
-* Pararte sobre el directorio `creating_documents` en la terminal y ejecutar el comando `mongorestore dump`, con esto mongo crea una base de datos llamada `video`, la cual contiene las siguientes colecciones:
+Para restuarar el `dump` sigue estos pasos:
+
+-. Parate esobre el directorio `creating_documents` en la terminal y ejecuta el comando
+
+```bash
+mongorestore dump
+```
+Con este comando mongo crea una base de datos llamada `video`, la cual contiene las siguientes colecciones:
 
 - movieDetails
 - movies
@@ -42,9 +49,9 @@ Una vez hayas hecho esto ya estas listo para empezar a usar la base de datos, in
 $ mongo
 ```
 
-una vez ejecutes este comando vas a notar que la terminal quedo de la interfaz de mongo, desde este punto es de donde puedes administrar todas las bases de datos que tengas en tu computador.
+una vez ejecutes este comando vas a notar que la terminal quedo dentro de la interfaz de mongo, desde este punto es de donde puedes administrar todas las bases de datos que tengas en tu computador.
 
-Ahora bien tenemos que usar la base de datos que acabamos de restaurar osea `video`. Primero asegurate que esta este en el sistema, para esto ejecuta el comando
+Ahora bien tenemos que usar la base de datos que acabamos de restaurar osea `video`. Primero asegurate que esta este en el sistema, para esto ejecuta el comando:
 
 ```bash
 $ show dbs

@@ -29,9 +29,9 @@ Para ver las pruebas abre el archivo `tests.html` en tu navegador. La primera ve
 
 Tienes dos opciones de formular la solucion de este reto:
 
-Opcion 1: Objetos literales y funciones (Sin usar prototypes o funciones constructoras)
+- Opcion 1: Objetos literales y funciones (Sin usar prototypes o funciones constructoras)
 
-Opcion 2: Funciones Constructoras e instancias
+- Opcion 2: Funciones Constructoras e instancias
 
 Te sugerimos que pruebes creando la solucion primero usando la Opcion 1 y luego hagas un refactor para pasar a la opcion 2.
 
@@ -57,10 +57,10 @@ El numero total de naranjas deberia aparecer en el elemento `p.fruit-count`.
 
 ## Recursos
 
-[tryJasmine.com](http://tryjasmine.com)
-[MDN JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
-[Jasmine Documentation](http://pivotal.github.io/jasmine/)
-[Jasmine Cheat Sheet](http://www.cheatography.com/citguy/cheat-sheets/jasmine-js-testing/)
-[Jasmine jQuery](https://github.com/velesin/jasmine-jquery)
-[Another Jasmine Tutorial](http://evanhahn.com/how-do-i-jasmine/)
-[jQuery][jQuery library]
+- [tryJasmine.com](http://tryjasmine.com)
+- [MDN JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+- [Jasmine Documentation](http://pivotal.github.io/jasmine/)
+- [Jasmine Cheat Sheet](http://www.cheatography.com/citguy/cheat-sheets/jasmine-js-testing/)
+- [Jasmine jQuery](https://github.com/velesin/jasmine-jquery)
+- [Another Jasmine Tutorial](http://evanhahn.com/how-do-i-jasmine/)
+- [jQuery][jQuery library]
