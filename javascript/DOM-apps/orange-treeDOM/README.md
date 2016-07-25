@@ -63,4 +63,3 @@ El numero total de naranjas deberia aparecer en el elemento `p.fruit-count`.
 - [Jasmine Cheat Sheet](http://www.cheatography.com/citguy/cheat-sheets/jasmine-js-testing/)
 - [Jasmine jQuery](https://github.com/velesin/jasmine-jquery)
 - [Another Jasmine Tutorial](http://evanhahn.com/how-do-i-jasmine/)
-- [jQuery][jQuery library]

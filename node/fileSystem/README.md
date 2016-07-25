@@ -2,7 +2,7 @@
 
 ## Resumen
 
-Como todos los lenguajes de Back-End node viene con un modulo para poder interactuar con el sistema de archivos de nustro computador o servidor. Esto quiere decir que podemos leer, crear y editar archivos y carpetas de forma programatica.
+Como todos los lenguajes de Back-End node viene con un modulo para poder interactuar con el sistema de archivos de nuestro computador o servidor. Esto quiere decir que podemos leer, crear y editar archivos y carpetas de forma programatica.
 
 el modulo que nos permite realizar esto se llama `fs` y tenemos que requerirlo en los archivos donde lo queramos utilizar.
 
