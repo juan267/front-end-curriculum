@@ -43,5 +43,3 @@ Compila el codigo dentro de la carpeta bundle, con el comando de `webpack` que y
 Abre el archivo `index.html` en el navegador deberias ver que tus estilos aplican y el codigo de `ES6` que tenemos en `main.js` funciona.
 
 
-
-

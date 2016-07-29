@@ -42,7 +42,7 @@ dentro de `loaders deberas configurar webpack para que use el `loader` de Babel.
 
 Babel nececita que crees un archivo llamado `.babelrc` dentro del cual le decimos que `presets` y `plugins` vamos a usar lee la documentacion de [.babelrc](https://babeljs.io/docs/usage/babelrc/) para que entiendas que es lo que tienes que hacer.
 
-###Paso 4
+###Paso 4:
 
 Corre desde la terminal el comando para compilar los archivos y que se cree la carpeta `build`:
 
