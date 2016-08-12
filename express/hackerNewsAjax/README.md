@@ -67,7 +67,8 @@ app.get('/posts/:id/votes', function(req, res){
   post.addPostVote(id, function(postDoc){
     res.redirect('/')
   })
-})```
+})
+```
 
 Esta ruta en este estado actual, toma el `id` del post que estamos upvoteando de la URL, e invoca la funcion `addPostVote` la cual te retamos a que investigues de donde viene. Una vez addPostVote hace su trabajo, invoca el callback que le pasamos como segundo argumento, el cual recibe el `post` actualizado con un nuevo voto y redirecciona a la ruta `root`.
 
