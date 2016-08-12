@@ -51,7 +51,7 @@ Esta es la syntaxis basica de como realizar un AJAX request:
 
 Que es lo que necesita saber el servidor par actualizar el numero de votos en el servidor? Que necesita saber el cliente para actualizar el DOM ? Como hace el cliente para obtener los datos que le envia el servidor y viceversa ?
 
-### Paso 2 : Votos ahora si encerio
+### Paso 2 : Votos ahora si enserio
 
 Perfecto, en este punto votar exitosamene un post hace que la flecha cambie de color. Peor el punto es que el numero de votos aumente!
 
