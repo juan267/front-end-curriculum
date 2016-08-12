@@ -28,8 +28,11 @@
         {% for post in posts %}
         <li>
           <span>{{loop.index}}.<a href="/posts/{{post._id}}/votes">&#9650;</a>
-            <span class='post-title'><a href="{{post.url}}" target="_blank">{{post.title}}</a></span>
-            <a href="/posts/{{post._id}}/delete">&#10008;</a><span class='post-url'>({{post.url}})</span>
+            <span class='post-title'>
+              <a href="{{post.url}}" target="_blank">{{post.title}}</a>
+            </span>
+            <a href="/posts/{{post._id}}/delete">&#10008;</a>
+            <span class='post-url'>({{post.url}})</span>
           </span>
           <span class='post-details'>
             {{post.votes}} points  |

@@ -1,6 +1,5 @@
 # Busqueda Binaria
 
-
 ##Resumen
 
 Los niños que estan aprendiendo aritmetica a menudo juegan a adivinar un numero dentro de un rango:

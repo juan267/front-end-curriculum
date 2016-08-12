@@ -45,6 +45,17 @@ mongoClient.connect('mongodb://localhost:27017/'+databaseName, function(err, db)
     })
   })
 
+  app.post('/posts', function(req, res){
+    var title = req.body.title
+    var author = req.body.author
+    var url = req.body.url
+    post.addPost(title, author, url, function(postDoc){
+      console.log()
+      postDoc.ops[0].index = parseInt(req.body.index) + 1
+      res.render('_post', {post: postDoc.ops[0]})
+    })
+  })
+
   app.get('/posts/:id/edit', function(req, res){
     var id = req.params.id
     post.getPost(id, function(postDoc){
@@ -72,7 +83,6 @@ mongoClient.connect('mongodb://localhost:27017/'+databaseName, function(err, db)
   app.get('/posts/:id/delete', function(req, res){
     var id = req.params.id
     post.deletePost(id, function(postDoc){
-      console.log(postDoc)
       res.redirect('/')
     })
   })
@@ -93,4 +103,10 @@ mongoClient.connect('mongodb://localhost:27017/'+databaseName, function(err, db)
      console.log('Express server listening on port %s.', port);
   })
 })
+
+var juan = {
+  sayHi: function(name) {
+    return 'Hola' + name
+  }
+}
 

@@ -1,0 +1,15 @@
+<ul>
+  {% for post in posts %}
+  <li id="{{post._id}}">
+    <span>{{loop.index}}.<a href="/posts/{{post._id}}/votes">&#9650;</a>
+      <span class='post-title'><a href="{{post.url}}" target="_blank">{{post.title}}</a></span>
+      <a href="/posts/{{post._id}}/delete">&#10008;</a><span class='post-url'>({{post.url}})</span>
+    </span>
+    <span class='post-details'>
+      <span id="{{post._id}}-votes">{{post.votes}}</span> points  |
+      By: {{post.author}}
+      <a href="/posts/{{post._id}}/edit">Edit</a>
+    </span>
+  </li>
+  {% endfor %}
+</ul>
