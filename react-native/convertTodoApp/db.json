@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "text": "Sacar al perro",
+      "done": true,
+      "id": 1
+    },
+    {
+      "text": "Escribir codigo",
+      "done": false,
+      "id": 2
+    },
+    {
+      "text": "Ser el mejor maestro pokemon",
+      "done": false,
+      "id": 4
+    }
+  ]
+}
