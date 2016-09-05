@@ -8,6 +8,10 @@ Cada jugador avanzara su carro al undir repetidamente alguna tecla del teclado. 
 
 Para este reto va ser muy importante saber como manejar los eventos que genera el nevegador por medio del uso de [jQuery][].
 
+Al terminar este proyecto deberias tener algo que se comporte como el siguiente ejemplo: [Javascrtipt-racer](https://juan267.github.io/javascript-racer/)
+
+Este es solo un esqueleto de la funcionalidad, la idea es que tu lo mejores para que sea vea como un juego que realmente alquien estaria motivado a usar.
+
 ## Pasos
 
 
@@ -75,8 +79,8 @@ Es hora de hacer el juego interactivo. Use el evento [keyup][] para detectar cua
 ```javascript
 $(document).ready(function() {
   $(document).on('keyup', function(event) {
-    // Detect which key was pressed and call the appropriate function
-    // Google "jquery keyup what key was pressed" if you don't know how
+    // Detecta que tecla se undio e invoca la funcion adecuada
+    // Googlea 'jquery keyup what key was pressed' si no sabes como hacer esto
   });
 });
 ```

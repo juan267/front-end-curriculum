@@ -53,4 +53,4 @@ assert(
   flowers[0].identify === flowers[5].identify, "only one implementation of the identify() function should exist"
 );
 
-console.log("Todas las Pruebas Pasas Felicitaciones!!!");
+console.log("Todas las Pruebas Pasan Felicitaciones!!!");
