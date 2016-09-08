@@ -40,6 +40,7 @@ Para este paso hemos creado unas pruebas las cuales encuentras acá abajo. Copia
 
 completa el reto cuando todas las pruebas impriman `true`
 
+`Pruebas:`
 ```javascript
 var michaelPhelps = new Athlete("Michael Phelps", 29, "swimming")
 console.log(michaelPhelps.constructor === Athlete)

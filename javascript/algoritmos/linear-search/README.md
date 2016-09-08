@@ -11,7 +11,7 @@ En ciencia de computacion, existen muchas formas de buscar dentro de colecciones
 
 Javascript abstrae muchas de las funciones de bajo nivel las cuales realizan este tipo de busquedas, como por ejemplo `find` o `indexOf`, para usar estos metodos no tienes que saber el `como` funciona por detras el `index` si no el `que` es.
 
-Sin embargo es muy util cononcer com funcionan estos metodos por detras, sobre todo por que existen muchas formas de usarlos y cada uno funciona de forma diferente. Conocer como funcionan estos algoritmos tiene un impacto directo en que tan bueno es el rendimiento de tus aplicaciones. por rendimiento nos referimos a cuanto tiempo se demora en ejecutar el programa y cuanta memoria usa.
+Sin embargo es muy util conocer como funcionan estos metodos por detras, sobre todo por que existen muchas formas de usarlos y cada uno funciona de forma diferente. Conocer como funcionan estos algoritmos tiene un impacto directo en que tan bueno es el rendimiento de tus aplicaciones. por rendimiento nos referimos a cuanto tiempo se demora en ejecutar el programa y cuanta memoria usa.
 
 Uno de los algoritmos de busqueda mas sencillos se llama `Linear Search`. En este reto, tu implementaras una version de este algoritmo, usando las estructuras mas basicas de Javascript.
 

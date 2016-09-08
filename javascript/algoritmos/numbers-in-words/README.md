@@ -23,7 +23,7 @@ inWords(82102713)  # => "eighty two million one hundred
 
 ###Paso 0 : Unos y Diez
 
-Empeiza pequeño: hazlos funcionar para numeros entre 1 y 10
+Empieza pequeño: hazlos funcionar para numeros entre 1 y 10
 
 ###Paso 1 : hasta 1000
 
