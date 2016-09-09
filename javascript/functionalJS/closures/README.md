@@ -8,7 +8,7 @@ Esto nor permite hacer uno de los patrones mas importantes del lenguaje el cual 
 
 Un `Clousure` es simplemente una funcion que devuelve otra funcion. Lo importante de esto es que la funcion que se devulve encapsula todas las variables definidas en la funcion que la encapsula.
 
-Eg:
+Ej:
 
 ``` javascript
 
@@ -22,7 +22,7 @@ function outer(x,y) {
 
 En este ejemplo la funcion `inner` que devolvemos al llamar `outer` tiene un `closure` sobre las variables `x` y `y` de forma que aunque la funcion `outer` ya alla corrido no perdemos estos valores si no que se mantienen en `inner` para cuando la invoquemos.
 
-Los clousure son un concepto un poco dificil de entender al principio, pero una vez que los empizas a usar te puedes de lo muy utiles que son y sobre todo la importancia que tienen en este lenguaje.
+Los clousure son un concepto un poco dificil de entender al principio, pero una vez que los empizas a usar te puedes dar cuenta de lo muy utiles que son y sobre todo la importancia que tienen en este lenguaje.
 
 ##Pasos
 
@@ -31,11 +31,11 @@ Los clousure son un concepto un poco dificil de entender al principio, pero una 
 Escribe una funcion `nonSense` que recibe como argumento un `string`. Esta funcion debe contener otra funcion adentro llamada `blab` la cual llama un `alert` con el `string`, y es inmediatamente invocada dentro de `nonSense`. `blab` basicamente se ve asi dentro de `nonSense`:
 
 
-  ```javascript
-   var blab = function(){
-     alert(string);
-   };
-  ```
+```javascript
+ var blab = function(){
+   alert(string);
+ };
+```
 
 ###Paso 2:
 
@@ -79,7 +79,7 @@ Como puedes ver en este caso el closure es util para imprimir en la consola el m
 
 Crea una funcion llamada `storyWriter` que devuelva un objeto con dos metodos. El primer metodo `addWords` añade palabras a la historia y devuelve la historia. El segundo metodo `erase` resetea la historia de vuelta a un string en blanco. Esta seria un posible implementacion y como usarimos esta funcion:
 
-  ```javascript
+```javascript
   var farmLoveStory = storyWriter();
   farmLoveStory.addWords('There was once a lonely cow.'); // 'There was once a lonely cow.'
   farmLoveStory.addWords('It saw a friendly face.'); //'There was once a lonely cow. It saw a friendly face.'
@@ -88,10 +88,9 @@ Crea una funcion llamada `storyWriter` que devuelva un objeto con dos metodos. E
   storyOfMyLife.addWords('My code broke.'); // 'My code broke.'
   storyOfMyLife.addWords('I ate some ice cream.'); //'My code broke. I ate some ice cream.'
   storyOfMyLife.erase(); // ''
+```
 
-  ```
-
-  Esto es lo que se conoce como el patron `module`. En javscript es una forma en la que podemos crear encapsulacion de funcionalidades todo dentro de una funcion sin pulidir el `global` namespace. para que entiendas el poder de este patron jQuery esta implementado de esta forma en la que toda su funcionalidad se encapsula dentro de la funcion `$`.
+Esto es lo que se conoce como el patron `module`. En javscript es una forma en la que podemos crear encapsulacion de funcionalidades todo dentro de una funcion sin pulidir el `global` namespace. para que entiendas el poder de este patron jQuery esta implementado de esta forma en la que toda su funcionalidad se encapsula dentro de la funcion `$`.
 
 ###Paso 6:
 

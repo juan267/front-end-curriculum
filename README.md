@@ -9,8 +9,7 @@ Esta es la guia principal para los proximos dias. Aca encontraras todos los reto
 
 ##Fases
 
-
-[Fase 1](Fase 1/README.md)
-[Fase 2](Fase 2/README.md)
-[Fase 3](Fase 3/README.md)
+- [Fase 1](Fase 1/README.md)
+- [Fase 2](Fase 2/README.md)
+- [Fase 3](Fase 3/README.md)
 

@@ -11,6 +11,6 @@ En este reto vamos a implementar uno de los layouts mas populares que se usa hoy
 
 Para este reto ya te hemos dado todo el esqueleto inicial, el cual incluye images y algunos estilos de css iniciales, de modo que solo tengas que ocuparte de hacer el layout.
 
-Como te podras dar cuenta este esqueleto ya funciona perfectamente en versiones mobiles, dado que estamos usando la filosofia de `mobile-first`. Tu trabajo es convertir este esquelo inicial y modificarlo para que funcione tambien en pantaller de dispositivos medianos y de escritoria de forma que quede igual a como se ve esta pagina:
+Como te podras dar cuenta este esqueleto ya funciona perfectamente en versiones mobiles, dado que estamos usando la filosofia de `mobile-first`. Tu trabajo es convertir este esqueleto inicial y modificarlo para que funcione tambien en pantallas de dispositivos medianos y de escritorios de forma que quede igual a como se ve esta pagina:
 
-[Flexbox-Cards](http://blog.makeitreal.camp/Flexbox-Cards/)
+Solucio Final: [Flexbox-Cards](http://blog.makeitreal.camp/Flexbox-Cards/)

@@ -36,6 +36,7 @@ function response (/*Object resturcturing */) {
 ajax('http://fun.tld', response)
 
 
+
 // Answer
 function response({
     foo = defaults.foo,

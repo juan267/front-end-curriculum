@@ -6,7 +6,7 @@
 - Crear y añadir objetos a un arreglo en javascript
 - User pruebas pre-escritas en un archivo de javascript
 
-## Summary
+## Resumen
 
 En este reto vas a crear una serie de variables de javascript. Los valores de las variables van a ser diferentes typos de objectos que existen en javascript. Este reto es mayormente un repaso de lo que ya debes saber.
 
