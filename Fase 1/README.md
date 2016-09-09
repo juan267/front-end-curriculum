@@ -79,13 +79,13 @@
 
 ####Jueves
 - Clase: `Intro a Mongo`
--[CRUD](../mongo/CRUD)
+- [CRUD](../mongo/CRUD)
 - Clase: `Intro a express y npm`
--[Mongo Node Driver](../mondo/nodeDriver/mongoDB-driver)
--[Express-Mongo](../mondo/nodeDriver/express-mongo-app)
+- [Mongo Node Driver](../mondo/nodeDriver/mongoDB-driver)
+- [Express-Mongo](../mondo/nodeDriver/express-mongo-app)
 
 ####Viernes
--[HackerNewsAjax](../express/hackerNewsAjax)
+- [HackerNewsAjax](../express/hackerNewsAjax)
 
 
 

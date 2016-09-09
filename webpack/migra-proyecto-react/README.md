@@ -2,14 +2,9 @@
 
 ##Resumen
 
-Felicitaciones ya sabes como crear `bundles` con `webpack`. Ahora es hora de que conviertas uno de los retos anteriores de React, los cuales estabamos creando de una forma muy ineficiente a que use `webpack` para compilar el codigo.
-
+Felicitaciones ya sabes como crear `bundles` con `webpack`. Ahora es hora de que conviertas la aplicacion para tomar Notas, a usar `webpack`.
 
 ##Pasos
-
-###Paso 1:
-
-Escoge algun reto de `React` preferiblemente uno de los ultimos que contenga mas codigo.
 
 ###Paso 2:
 

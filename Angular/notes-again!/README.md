@@ -17,3 +17,7 @@ Empieza realizando los mismos pasos que hicimos con `React` primero crea solo un
 
 Puedes usar los estilos del reto de `React`. A menos de que sientas que quieres crearlos y darle tu personalidad propia a este proyecto.
 
+###Paso 2:
+
+Conectalo con `Firebase`, descubre que libreria te podria ayudar con esto.
+

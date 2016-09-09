@@ -18,68 +18,62 @@
 - Continua trabjando en React Olympics
 
 ####Jueves
+- Clase: `Webpack Intro`
+- [Usando Webpack](../webpack/usando-webpack)
+- [Transpilando ES6](../webpack/transpilando-es6)
+- [Transpilando JSX](../webpack/trasnpilando-jsx)
+- [Añade CSS](../webpack/añadiendo-css)
+- [Compilando SASS e Imagenes](../webpack/sass-imagenes)
+- [Webpack DevServer](../webpack/webpack-dev-server)
+- [Migra React Notes](../webpack/migra-proyecto-react)
 
-- Clase: `Object Oriented programing in javascript`
-- [numbers-in-words](../javascript/algoritmos/numbers-in-words)
-- [Garden](../javascript/OOP/garden)
+####Virnes
 
-####Viernes
-- Clase: `Scope en javascript`
-- [Scope](../javascript/scope/scope)
-- [ABC-Scope](../javascript/scope/ABCscope)
-- Termina Cualquier reto que te falte de la semana
+- Clase: `React Router`
+- [Tutorial](https://github.com/reactjs/react-router-tutorial)
+- Clase: `API y Fetch`
+- [Meme Generator](../javascript/algoritmos/numbers-in-words)
+
 
 
 ###Semana 2
 
 ####Lunes
-- Clase: `Functional js`
-- [Callbacks](../javascript/functionalJs/callbacks)
-- [iterators](../javascript/functionalJs/iterators)
-- [closures](../javascript/functionalJs/closures)
+- [Proyecto](../React/proyecto)
 
 ####Martes
-- Clase: `ES6`
-- [Arrow Function](../javascript/ES6/arrowFunction)
-- [Destructuring](../javascript/ES6/destructuring)
-- [Spred-Rest](../javascript/ES6/spreadRest)
+- Continua trabajando en el proyecto
 
 ####Miercoles
-- Clase: `DOM y Jquery`
-- [Javascript-racer](../javascript/DOM-apps/javascript-racer)
+- Clase: `React Firebase`
+- [Chat App](../React/)
 
 ####Jueves
-- Clase: `AJAX, y Protocolo HTTP`
-- [Simon Dice](../javascript/ajax/simonDice)
+- Clase: `Redux`
+- Por definir
+
 
 ####Viernes
-- Clase: `Arquitectura MVC`
-- [Orange-Tree](../javascript/DOM-apps/orange-treeDOM)
+- Proyecto
+- Por definir
 
 
 ###Semana 3
 
 ####Lunes
-- [Projecto](../javascript/proyecto/connect4)
+Dia muerto por puente
 
 ####Martes
-- Continua trabajndo en el proyecto
+- Clase: `React Native intro`
+- [Convert Todo App](../react-native/convertTodoApp)
 
 ####Miercoles
-- Clase: `Intro a Node`
-- [File-System](../node/fileSystem)
-- [Globals](../node/Globals)
-- [HTTP](../node/http)
+Por Definir
 
 ####Jueves
-- Clase: `Intro a Mongo`
--[CRUD](../mongo/CRUD)
-- Clase: `Intro a express y npm`
--[Mongo Node Driver](../mondo/nodeDriver/mongoDB-driver)
--[Express-Mongo](../mondo/nodeDriver/express-mongo-app)
+Por Definir
 
 ####Viernes
--[HackerNewsAjax](../express/hackerNewsAjax)
-
+Por Definir
 
 
