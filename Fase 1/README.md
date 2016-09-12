@@ -8,20 +8,22 @@
 - Clase: `Que es ser un desarrollador Front-end`
 - [Javascripts-variables-objects](../javascript/prework/js-variables-objects)
 - [Javascript Olympics](../javascript/prework/javascript-olympics)
+- [Linear-search](../javascript/algoritmos/linear-search)
 
 ####Martes
 
-- Clase: `Flexbox y CSS en general`
-- [Cards](../CSS/Flexbox/Cards)
-- [Layouts](../CSS/Flexbox/Layouts)
-- [Menus](../CSS/Flexbox/Menus)
-
-####Miercoles
-
 - Clase: `Creacion de Algoritmos en js, conceptos basicos`
-- [Linear-search](../javascript/algoritmos/linear-search)
+
 - [Binary-Search](../javascript/algoritmos/binary-search)
 - [Roman-Numerals](../javascript/algoritmos/roman-numerals)
+
+
+####Miercoles
+- Clase: `Scope en javascript`
+- [Scope](../javascript/scope/scope)
+- [ABC-Scope](../javascript/scope/ABCscope)
+- Termina Cualquier reto que te falte de la semana
+
 
 ####Jueves
 
@@ -30,10 +32,10 @@
 - [Garden](../javascript/OOP/garden)
 
 ####Viernes
-- Clase: `Scope en javascript`
-- [Scope](../javascript/scope/scope)
-- [ABC-Scope](../javascript/scope/ABCscope)
-- Termina Cualquier reto que te falte de la semana
+- Clase: `Flexbox y CSS en general`
+- [Cards](../CSS/Flexbox/Cards)
+- [Layouts](../CSS/Flexbox/Layouts)
+- [Menus](../CSS/Flexbox/Menus)
 
 
 ###Semana 2
