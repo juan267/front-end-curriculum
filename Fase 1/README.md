@@ -28,6 +28,7 @@
 ####Jueves
 
 - Clase: `Object Oriented programing in javascript`
+- [Notes](../javascript/OOP/notes)
 - [numbers-in-words](../javascript/algoritmos/numbers-in-words)
 - [Garden](../javascript/OOP/garden)
 
