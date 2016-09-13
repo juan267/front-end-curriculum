@@ -1,8 +1,8 @@
 // assume this data came from the database
 var notes = [
-	"This is the first note I've taken!",
-	"Now is the time for all good men to come to the aid of their country.",
-	"The quick brown fox jumped over the moon."
+	"Chuck Norris counted to infinity - twice.",
+	"Chuck Norris is the reason why Waldo is hiding.",
+	"Death once had a near-Chuck Norris experience"
 ];
 
 function addNote(note) {
