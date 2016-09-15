@@ -24,8 +24,8 @@ Vamos a poner unas reglas de juego para este reto. Esto te va a forzar a practic
   - Declarar nuevas variables (Mientras estas no sean globales)
   - Modificar las declaraciones de funciones, sin moverlas
   - Añadir, Remover: expresiones (IIFEs, return, arguments...)
-  - Haz la menos cantidad de cambios posible
+  - Haz la menor cantidad de cambios posible
 
 ##Paso 1: Resuelve el reto
 
-Abre el archivo `scope/index.html` en el navegador. Abre tu consola de desarrollador, inmediatamente veras un error en tu pantalla. Empiza a solucionar los errores hasta que imprimas todo el abecedario en la consola.
+Abre el archivo `ABCscope/index.html` en el navegador. Abre tu consola de desarrollador, inmediatamente veras un error en tu pantalla. Empiza a solucionar los errores hasta que imprimas todo el abecedario en la consola.

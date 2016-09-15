@@ -1,4 +1,3 @@
-A();
 
 function C() {
 	console.log("OOPS! funcion equivocada");
@@ -10,7 +9,7 @@ function E(f) {
 	var f = F;
 }
 
-var A = function() {
+function A() {
 	console.log("A");
 	B();
 };
@@ -21,7 +20,7 @@ function G() {
 	console.log("G");
 	H();
 
-	var H = function() {
+	function H() {
 		console.log("H");
 		I();
 	};
@@ -29,9 +28,10 @@ function G() {
 
 var D = d;
 
+
 function d() {
 	console.log("D");
-	E();
+	E(F);
 }
 
 function I() {
@@ -40,37 +40,41 @@ function I() {
 	J();
 }
 
-B = function() {
+function B() {
 	console.log("B");
 	C();
 };
 
-var F = function() {
+function F() {
 	console.log("F");
 	G();
 };
 
+
+
 var rest = "KLMNOPQRSTUVWXYZ".split("");
 for (var i=0; i<rest.length; i++) {
 	(function(i){
-		// define the current function
 		window[rest[i]] = function() {
 			console.log(rest[i]);
 			if (i < (rest.length-1)) {
-				// TODO: call the next function
+				window[rest[i +1]]()
 			}
 		};
 	})(i);
 }
 
-var J = function() {
+function J() {
 	J = function() {
 		console.log("J");
 		K();
 	};
 };
 
-C = function() {
+function B() {
 	console.log("C");
 	D();
 };
+
+
+A();
