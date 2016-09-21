@@ -8,7 +8,7 @@
 
 ##Resumen
 
-Buenas noticias: Ya sabes Javascript!. Para este reto vas a construir una con una base de codigo grande basada en javascript. Vas a tener que mantenerla bien organizada y facil de leer.
+Buenas noticias: Ya sabes Javascript!. Para este reto vas a construir  una base de codigo grande basada en javascript. Vas a tener que mantenerla bien organizada y facil de leer.
 
 ##Funcionalidades:
 
@@ -26,3 +26,7 @@ Buenas noticias: Ya sabes Javascript!. Para este reto vas a construir una con un
   - Los usuarios pueden competir uno contra otro usando el mismo navegador
   - Los usuarios pueden competir contra otro jugador en un computador diferente
   - Tus propias historias de usuario.
+
+  Al final tu aplicacion deberia funcionar como la siguiente:
+
+  [Connect 4](https://juan267.github.io/connect-4/)

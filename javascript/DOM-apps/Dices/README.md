@@ -1,6 +1,5 @@
 # JavaScript Refactor Procesal A OOP
 
-
 ##Resumen
 
 Como programador profesional, habran varias situaciones en las que te encontraras con javascript escrito de forma un poco miedosa. En este reto te vamos a pedir que tomes codigo escrito en forma procesal, y le hagas un refactor para que se convierta en codigo escrito de forma orientada a Objetos.

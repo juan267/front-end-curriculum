@@ -65,7 +65,10 @@
 - [Projecto](../javascript/proyecto/connect4)
 
 
-
+- Tarea [MongoDB-Videos](../mongo/videos.md)
+- Tarea [Intro Express](https://code.tutsplus.com/tutorials/introduction-to-express--net-33367)
+- Tarea [Entendiendo Express](http://evanhahn.com/understanding-express/)
+- Tarea [Express](https://zellwk.com/blog/crud-express-mongodb/)
 
 ###Semana 3
 
