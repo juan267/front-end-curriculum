@@ -48,47 +48,53 @@
 - [closures](../javascript/functionalJs/closures)
 
 ####Martes
-- Clase: `ES6`
-- [Arrow Function](../javascript/ES6/arrowFunction)
-- [Destructuring](../javascript/ES6/destructuring)
-- [Spred-Rest](../javascript/ES6/spreadRest)
-
-####Miercoles
-- Clase: `DOM y Jquery`
+- Clase: `Arquitectura MVC`
 - [Javascript-racer](../javascript/DOM-apps/javascript-racer)
 
+
+####Miercoles
+- Clase: `DOM y Eventos`
+- [Dados](../javascript/DOM-apps/Dices)
+- [Orange-Tree](../javascript/DOM-apps/orange-treeDOM)
+
 ####Jueves
-- Clase: `AJAX, y Protocolo HTTP`
-- [Simon Dice](../javascript/ajax/simonDice)
+- [Orange-Tree](../javascript/DOM-apps/orange-treeDOM)
+
 
 ####Viernes
-- Clase: `Arquitectura MVC`
-- [Orange-Tree](../javascript/DOM-apps/orange-treeDOM)
+- [Projecto](../javascript/proyecto/connect4)
+
+
 
 
 ###Semana 3
 
 ####Lunes
-- [Projecto](../javascript/proyecto/connect4)
+- Continua trabajando en el proyecto
 
 ####Martes
-- Continua trabajndo en el proyecto
-
-####Miercoles
 - Clase: `Intro a Node`
 - [File-System](../node/fileSystem)
 - [Globals](../node/Globals)
 - [HTTP](../node/http)
 
-####Jueves
+####Miercoles
 - Clase: `Intro a Mongo`
 - [CRUD](../mongo/CRUD)
 - Clase: `Intro a express y npm`
 - [Mongo Node Driver](../mondo/nodeDriver/mongoDB-driver)
 - [Express-Mongo](../mondo/nodeDriver/express-mongo-app)
 
-####Viernes
+####Jueves
+- Clase: `AJAX, y Protocolo HTTP`
+- [Simon Dice](../javascript/ajax/simonDice)
 - [HackerNewsAjax](../express/hackerNewsAjax)
+
+####Viernes
+- Clase: `ES6`
+- [Arrow Function](../javascript/ES6/arrowFunction)
+- [Destructuring](../javascript/ES6/destructuring)
+- [Spred-Rest](../javascript/ES6/spreadRest)
 
 
 

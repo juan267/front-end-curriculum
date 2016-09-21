@@ -13,4 +13,6 @@ Para este reto ya te hemos dado todo el esqueleto inicial, el cual incluye image
 
 Como te podras dar cuenta este esqueleto ya funciona perfectamente en versiones mobiles, dado que estamos usando la filosofia de `mobile-first`. Tu trabajo es convertir este esqueleto inicial y modificarlo para que funcione tambien en pantallas de dispositivos medianos y de escritorios de forma que quede igual a como se ve esta pagina:
 
-Solucio Final: [Flexbox-Cards](http://blog.makeitreal.camp/Flexbox-Cards/)
+Solucio Final:
+
+- [Flexbox-Cards](http://blog.makeitreal.camp/Flexbox-Cards/)
