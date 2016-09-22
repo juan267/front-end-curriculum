@@ -3,7 +3,7 @@
 ##  Git!
 
 - git add -p (por que es Increible) angie
-- que hace que un pull request sea bueno?
+- que hace que un pull request sea bueno? +++GERMAN
 - git clone vs fork vs por que hacer cualquiera de ellos? 
 - Git head Maria
 
