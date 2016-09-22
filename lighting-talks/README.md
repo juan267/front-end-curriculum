@@ -2,14 +2,14 @@
 
 ##  Git!
 
-- git add -p (por que es Increible)
+- git add -p (por que es Increible) ###GERMAN
 - que hace que un pull request sea bueno?
 - git clone vs fork vs por que hacer cualquiera de ellos? 
 - Git head Maria
 
 ## The Internet!
 
-- cuales son los verbos HTTP?
+- cuales son los verbos HTTP? ###GERMAN
 - Que es una direccion IP Maria
 - que demonios es un puerto
 
@@ -17,7 +17,7 @@
 
 - Herencia en CSS Maria
 - Atributo `data` en HTML Maria
-- Box-Model en CSS
+- Box-Model en CSS ###GERMAN
 - Especificidad en CSS
 
 ## JS basics!
@@ -30,22 +30,22 @@
 ## Goddamn it, JavaScript.
 
 - cuando necesito un semicolon? Maria
-- por que se le pasa `false` como tercer argumento a .addEventListener()
-- recorrer el DOM en vailla Jvascript sin usar querySelector o querySelectorAll
+- por que se le pasa `false` como tercer argumento a .addEventListener() ###GERMAN
+- recorrer el DOM en vailla Jvascript sin usar querySelector o querySelectorAll ###GERMAN
 - que es ECMAScript
 
 ## JavaScript under the hood.
 
 - Hoisting
 - .call() y .apply() Maria
-- .bind()
+- .bind() ###GERMAN
 - event delegation
 
 ## Advanced HTML and CSS
 
 - HTML5 form validation - Maria
 - HTML local storage
-- Canvas
+- Canvas ###GERMAN
 - CSS3 pseudo clases (:nth-child(n), :not(s), :empty)
 - CSS :before and :after
 
