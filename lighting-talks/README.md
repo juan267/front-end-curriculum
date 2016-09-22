@@ -1,4 +1,4 @@
-# Week 1 Lightning Talks
+# Lightning Talks
 
 ##  Git!
 
