@@ -13,3 +13,5 @@ Esta es la guia principal para los proximos dias. Aca encontraras todos los reto
 - [Fase 2](Fase 2/README.md)
 - [Fase 3](Fase 3/README.md)
 
+- [Lighting Talks](lighting-talks/README.md)
+
