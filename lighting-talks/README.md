@@ -4,8 +4,8 @@
 
 - git add -p (por que es Increible)
 - que hace que un pull request sea bueno?
-- git clone vs fork vs por que hacer cualquiera de ellos?
-- Git head
+- git clone vs fork vs por que hacer cualquiera de ellos? 
+- Git head Maria
 
 ## The Internet!
 
@@ -16,7 +16,7 @@
 ## CSS and HTML!
 
 - Herencia en CSS
-- Atributo `data` en HTML
+- Atributo `data` en HTML Maria
 - Box-Model en CSS
 - Especificidad en CSS
 
@@ -29,7 +29,7 @@
 
 ## Goddamn it, JavaScript.
 
-- cuando necesito un semicolon?
+- cuando necesito un semicolon? Maria
 - por que se le pasa `false` como tercer argumento a .addEventListener()
 - recorrer el DOM en vailla Jvascript sin usar querySelector o querySelectorAll
 - que es ECMAScript
@@ -43,7 +43,7 @@
 
 ## Advanced HTML and CSS
 
-- HTML5 form validation
+- HTML5 form validation - Maria
 - HTML local storage
 - Canvas
 - CSS3 pseudo clases (:nth-child(n), :not(s), :empty)
