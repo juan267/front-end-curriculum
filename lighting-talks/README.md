@@ -4,7 +4,7 @@
 
 - git add -p (por que es Increible) angie
 - que hace que un pull request sea bueno? +++GERMAN
-- git clone vs fork vs por que hacer cualquiera de ellos? DIEGO
+- git clone vs fork vs por que hacer cualquiera de ellos? (:v ..DIEGO)
 - Git head Maria
 
 ## The Internet!
@@ -22,10 +22,10 @@
 
 ## JS basics!
 
-- function foo() {} vs var foo = function() {} DIEGO
+- function foo() {} vs var foo = function() {} (:v ..DIEGO)
 - == vs === Maria
 - scope de variables Angie
-- debugger DIEGO
+- debugger (:v ..DIEGO)
 
 ## Goddamn it, JavaScript.
 
@@ -39,14 +39,14 @@
 - Hoisting angie
 - .call() y .apply() Maria
 - .bind() ###GERMAN
-- event delegation DIEGO
+- event delegation (:v ..DIEGO)
 
 ## Advanced HTML and CSS
 
 - HTML5 form validation - Maria
-- HTML local storage DIEGO
+- HTML local storage (:v ..DIEGO)
 - Canvas ###GERMAN
-- CSS3 pseudo clases (:nth-child(n), :not(s), :empty) DIEGO
-- CSS :before and :after DIEGO
+- CSS3 pseudo clases (:nth-child(n), :not(s), :empty) (:v ..DIEGO)
+- CSS :before and :after (:v ..DIEGO)
 
 
