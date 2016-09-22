@@ -46,7 +46,7 @@
 - HTML5 form validation - Maria
 - HTML local storage DIEGO
 - Canvas ###GERMAN
-- CSS3 pseudo clases (:nth-child(n), :not(s), :empty)
+- CSS3 pseudo clases (:nth-child(n), :not(s), :empty) DIEGO
 - CSS :before and :after DIEGO
 
 
