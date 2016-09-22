@@ -37,7 +37,7 @@
 ## JavaScript under the hood.
 
 - Hoisting
-- .call() y .apply()
+- .call() y .apply() Maria
 - .bind()
 - event delegation
 
