@@ -37,13 +37,13 @@ En este paso deberas hacer una combinacion de los metodos:
 - readdir
 - readFile
 
-Tu objetivo es leer todos los archivos de primer nivel de la carpeta `testFiles`. Esto quiere decir que no debes leer los archivos que se encuentren dentro de `nredtedDirectory`
+Tu objetivo es leer todos los archivos de primer nivel de la carpeta `testFiles`. Esto quiere decir que no debes leer los archivos que se encuentren dentro de `nestedDirectory`
 
 el programa debe imprimir los contenidos de cada archivo en la terminal, lo que quires decir que deberias ver la historia de Javascript y de KeyboardCat en tu terminal.
 
 ### Paso 3
 
-En este paso deberas usar el metodo:
+En este paso deberas usar el metodo de fs:
 
 - writeFile
 
@@ -54,7 +54,7 @@ EL objetivo es que un usuario pueda hacer lo siguiente desde la terminal:
 $ node writeFile --phrase 'hola como estas'
 ```
 
-el ejecutar este comando la frase `'hola como estas' ` deberia quedar escrita dentro del archivo `sample.md`
+el ejecutar este comando la frase `'hola como estas' ` deberia quedar escrita dentro del archivo `soyNuevo.md` dentro de la carpeta `nestedDirectory`, el cual como puedes inferir por el nombre es un archivo que va a crear el metodo `writeFile`.
 
 Utiliza el codigo del reto `process.argv` para ayudarte
 

@@ -3,10 +3,10 @@
 ###Semana 1
 
 ####Lunes
-- Clase: `Express a fondo`
-- [Abuela Sorda](../express/deafGrandma)
-- [Racer backend](../express/racerBackend)
-- (opcional) [Hacker-news-completo](../express/hackerNews)
+- Clase: `AJAX, y Protocolo HTTP`
+- [Simon Dice](../javascript/ajax/simonDice)
+- [HackerNewsAjax](../express/hackerNewsAjax)
+
 
 ####Martes
 

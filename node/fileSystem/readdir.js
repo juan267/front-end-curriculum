@@ -1,10 +1,13 @@
+// Necesitamos estos dos modulos del core de Node para poder Completar este reto
+
 var fs = require('fs')
+var path = require('path')
 
 // Version Syncronica
 
-var files = fs.readdirSync(path.join(__dirname), '')
 
 // Version asyncrona
+
 
 
 console.log('Suspenso no se donde voy a salir')

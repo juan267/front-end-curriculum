@@ -41,7 +41,7 @@ Vamos a empezar creando la version mas sencilla de de un servidor. En este paso 
 
 - createServer()
 
-este servidor de responder a todos los request que se le hagan, un documento de `html` que contega un tag `h1` con el texto `Hola mundo desde node`.
+este servidor debe responder a todos los request que se le hagan, un documento de `html` que contega un tag `h1` con el texto `Hola mundo desde node`.
 
 ### Paso 2
 
@@ -66,6 +66,4 @@ Para lograr esto vas a tener que usar, los modulos:
 - fs
 
 y tambien un poco de expresiones regulares para identificar el tipo de archivo que tienes que devolver.
-
-
 

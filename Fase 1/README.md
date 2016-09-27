@@ -73,7 +73,7 @@
 ###Semana 3
 
 ####Lunes
-- Continua trabajando en el proyecto
+- [Projecto](../javascript/proyecto/connect4)
 
 ####Martes
 - Clase: `Intro a Node`
@@ -89,9 +89,11 @@
 - [Express-Mongo](../mondo/nodeDriver/express-mongo-app)
 
 ####Jueves
-- Clase: `AJAX, y Protocolo HTTP`
-- [Simon Dice](../javascript/ajax/simonDice)
-- [HackerNewsAjax](../express/hackerNewsAjax)
+- Clase: `Express a fondo`
+- [Abuela Sorda](../express/deafGrandma)
+- [Racer backend](../express/racerBackend)
+- (opcional) [Hacker-news-completo](../express/hackerNews)
+
 
 ####Viernes
 - Clase: `ES6`

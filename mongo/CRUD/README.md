@@ -91,9 +91,9 @@ estas son las opciones:
 
 Cuando sepas la respuesta, dicela al profesor para que el te diga si es correcta.
 
-###Paso 2: Leer, proyectando
 
-Como crearias una consulta que devuelva un resultado de esta manera:
+###Paso 2: Leer, proyectando
+Actualmente cuando haces una consulta mongo nos devuelve el documento completo. Como crearias una consulta que devuelva un resultado de esta manera:
 
 ``` JSON
 {"title": "Love Actually"}
@@ -106,11 +106,12 @@ Usando la base de datos `video` , coleccion `movieDetails`. Haz una consulta que
 
 ###Paso 4: Leer, leyendo arreglos
 
-Usando la base de datos 'video', coleccion 'movieDetails'. Haz una consulta que nos indique cuantos documentos existen en la coleccion que listen UNICAMENTE los generos: "Comedy" y "Crime"  con "Comedy" primero en la propiedad `genres`.
+Usando la base de datos `video`, coleccion `movieDetails`. Haz una consulta que nos indique cuantos documentos existen en la coleccion que listen UNICAMENTE los generos: "Comedy" y "Crime"  con "Comedy" primero en la propiedad `genres`.
 
 ###Paso 4: Leer, leyendo arreglos 2
 
 Usando la base de datos `video`, coleccion `movieDetails`. Siguiendo la consulta anterior, haz una nueva consulta que nos indique cuantos documentos existen en la coleccion que listen los generos: "Comedy" y "Crime" como generos sin importar cuantos otros generos tenga la pelicula.
+
 
 ###Paso 5: Modificando
 
@@ -129,10 +130,12 @@ Ahora vamos a empezar a modificar documentos ya existentes dentro de la base de 
 Usando la base de datos `video` coleccion `movieDetails`. Escribe un comando que que remueva el campo `tomato.consensus` para todos los documentos que cumplan los siguientes cirterios:
 
 - El numero de de votos imdb es menor a 10,000
-- El año de la pelicual es entre 2010, y 2013 inclusive
+- El año de la pelicula es entre 2010 inclusive, y 2013 inclusive
 - El campo `tomato.consensus` tiene un valor `null`
 
 Cuantos documentos cumplen con esta condicion y requieren un update para eliminar el campo `tomato.consensus` ?
+
+
 
 ###Paso 7: Creando
 
@@ -151,9 +154,9 @@ El dump inicial de la base de datos contenia 3365 documentos en la coleccion `mo
 
 ###Paso 8: Creando a fondo
 
-Mira el archivo `inserOne.js` copia la primera linea y ejecutala en la terminal en la base de datos `video`.
+Mira el archivo `insertOne.js` copia la primera linea y ejecutala en la terminal en la base de datos `video`.
 
-Luego haz los mismo con la segunda linea. Que diferencia tienen ambos comandos, en que caso usarios cada uno de ellos ?
+Luego haz lo mismo con la segunda linea. Que diferencia tienen ambos comandos, en que caso usarios cada uno de ellos ?
 
 ###Paso 9: Creando Muchos
 
@@ -184,7 +187,6 @@ Prueba los comandos que encontraras en los archivos:
 
 - insertMany-ordered-imdb-ids.js
 - insertMany-ordered.js
-- insertManu-unordered-dupremoved.js
 - inserMany-unoredered.js
 
 Cuales son las diferencias de todas estas formas de crear muchos documentos al tiempo?
