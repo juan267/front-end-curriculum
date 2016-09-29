@@ -89,7 +89,7 @@ estas son las opciones:
 - Iron man 3
 - A Decade of Decadence,Pt 2: Legacy of Dreams
 
-Cuando sepas la respuesta, dicela al profesor para que el te diga si es correcta.
+Cuando sepas la respuesta, dicela al mentor para que el te diga si es correcta.
 
 
 ###Paso 2: Leer, proyectando
@@ -108,11 +108,11 @@ Usando la base de datos `video` , coleccion `movieDetails`. Haz una consulta que
 
 Usando la base de datos `video`, coleccion `movieDetails`. Haz una consulta que nos indique cuantos documentos existen en la coleccion que listen UNICAMENTE los generos: "Comedy" y "Crime"  con "Comedy" primero en la propiedad `genres`.
 
-###Paso 4: Leer, leyendo arreglos 2
+###Paso 4.2: Leer, leyendo arreglos 2
 
 Usando la base de datos `video`, coleccion `movieDetails`. Siguiendo la consulta anterior, haz una nueva consulta que nos indique cuantos documentos existen en la coleccion que listen los generos: "Comedy" y "Crime" como generos sin importar cuantos otros generos tenga la pelicula.
 
-
+56
 ###Paso 5: Modificando
 
 Ahora vamos a empezar a modificar documentos ya existentes dentro de la base de datos. Cual de los siguiente operadores usarias para modificar el valor del campo `plot` de algun documento dentro de la coleccion `movieDetails` :
@@ -167,7 +167,7 @@ Crea todos los documentos dentro del arreglo de abajo con un solo comando dentro
    {
     "imdb" : "Spirited Away",
     "year" : 2001,
-    "imdb" : "tt0245429",
+    "title" : "Spirited Away",
     "type" : "movie"
    },
    {

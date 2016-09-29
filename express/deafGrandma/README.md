@@ -27,11 +27,11 @@ $ npm start
 
 Luego de eso deberias poder visita la tu applicacion en la url [http://localhost:3000](http://localhost:3000). `localhost` se refiere a la maquina actual en la que estamos, de forma que stas corriendo un pequeño servidor web dentro de tu computador.
 
-It should look like this:
+Se deberia ver asi:
 
 <p style="text-align: center"><img src="yeahh.png"></p>
 
-Si se ve diferente avisale al profesor para que te ayude.
+Si se ve diferente avisale al mentor para que te ayude.
 
 ### Paso 1: Haz que la abuela hable
 
