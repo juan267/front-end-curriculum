@@ -1,12 +1,12 @@
 # Express Authentication
 
-##Learning Competencies
+##Objetivos de Aprendizaje
 
 * Implemetar Login de usuarios.
 
 ##Resumen
 
-Usunado express, crea un sistema de `signin/signout` , el cual autentique usuarios antes de mostrarles informacion que este protegida. En este reto encontraras en la carpeta `express-authentication` un esqueleto el cual contiene todo el boilerplate necesario inlcuido vistas. Tu reto es modificar `server.js` para que todo funcione.
+Usunado express, crea un sistema de `signin/signout` , el cual autentique usuarios antes de mostrarles informacion que este protegida. En este reto encontraras en la carpeta `express-authentication` un esqueleto el cual contiene todo el boilerplate necesario inlcuido vistas. Tu reto es modificar `server.js` para que todo funciones.
 
 ##Pasos
 
