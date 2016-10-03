@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Authentication</title>
+  <link rel="stylesheet" href="/public/css/styles.css">
+</head>
+<body>
+  <nav>
+    <div class="brand">
+      <a href="/">User Authentication</a>
+    </div>
+    <ul>
+      {{#if currentUser }}
+        <li>{{currentUser.name}}</li>
+        <li>
+          <form id="sign-out" action="/sessions/delete" method="post">
+            <input type="submit" value="Sign Out">
+          </form>
+        </li>
+      {{else}}
+        <li><a href="/sessions/new">Sign In</a></li>
+        <li><a href="/students/new">Sign Up</a></li>
+      {{/if}}
+    </ul>
+  </nav>
+  {{{body}}}
+</body>
+</html>

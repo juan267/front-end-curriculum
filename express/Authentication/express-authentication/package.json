@@ -1,0 +1,27 @@
+{
+  "name": "express-authentication",
+  "version": "0.0.1",
+  "private": true,
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/juan267/express-authentication.git"
+  },
+  "bugs": {
+    "url": "https://github.com/juan267/express-authentication/issues"
+  },
+  "homepage": "https://github.com/juan267/express-authentication",
+  "keywords": [],
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "bcrypt": "^0.8.7",
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "express-handlebars": "^3.0.0",
+    "express-session": "^1.14.1",
+    "mongodb": "^2.2.10"
+  }
+}

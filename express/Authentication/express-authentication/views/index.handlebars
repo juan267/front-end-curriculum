@@ -1,0 +1,13 @@
+<div class="container">
+  {{#if currentUser}}
+    <h2>List of Students</h2>
+    {{#each students }}
+      <ul>
+        <li>{{name}}</li>
+      </ul>
+    {{/each}}
+  {{else}}
+    <h2>Welcome to this shitty page</h2>
+    <h4>Sign in or Sign up, to see a less shitty page</h4>
+  {{/if}}
+</div>

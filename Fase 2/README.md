@@ -3,13 +3,19 @@
 ###Semana 1
 
 ####Lunes
+
+- (opcional) [Hacker-news-completo](../express/hackerNews)
 - Clase: `AJAX, y Protocolo HTTP`
 - [Simon Dice](../javascript/ajax/simonDice)
 - [HackerNewsAjax](../express/hackerNewsAjax)
 
 
 ####Martes
-
+- Clase: `ES6`
+- [Arrow Function](../javascript/ES6/arrowFunction)
+- [Destructuring](../javascript/ES6/destructuring)
+- [Spred-Rest](../javascript/ES6/spreadRest)
+- [Racer backend](../express/racerBackend)
 - Clase: `Intro a React`
 - [Olimpiadas de React](../React/ReactOlympics)
 
