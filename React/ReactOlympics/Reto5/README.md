@@ -22,7 +22,7 @@ this.props.children
 
 ###Paso 1:
 
-Crea un component en archivo `js` externo que renderize, un `<h1></h1>` el cual por tendro tenga el texto proveniente de `this.props.text` y un `<p></p>` que tenga por dentro el valor de `this.props.children`.
+Crea un componente en un archivo `js` externo que renderize, un `<h1></h1>` el cual por dentro tenga el texto proveniente de `this.props.text` y un `<p></p>` que tenga por dentro el valor de `this.props.children`.
 
 ###Paso 2:
 

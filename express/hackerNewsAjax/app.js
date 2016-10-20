@@ -104,9 +104,3 @@ mongoClient.connect('mongodb://localhost:27017/'+databaseName, function(err, db)
   })
 })
 
-var juan = {
-  sayHi: function(name) {
-    return 'Hola' + name
-  }
-}
-

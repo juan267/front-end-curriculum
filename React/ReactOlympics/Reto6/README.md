@@ -32,8 +32,7 @@ Ve al archivo `js/Note.js` ahi encontraras el component `Note` el cual lo unico 
 
 Tu reto es que cuando el usuario haga click en el primer `button` este dispare la funcion `edit` la cual debe disparar una alerta que diga `editing note`. El segundo boton debe dispara la funcion `remove` la cual dispara una alerta que diga `removing note`.
 
-Por otro lado te diste cuenta de que ya no hacemos render al body si no a un Div en los ultimos retos ? por que es esto?
 
 ###Dato Curioso
 
-Tambien hicimos un cambio sobre como hacemos render al DOM real, este es que ahora usamos la libreia `ReactDOM` para que se encargue de esto. Desdes la verion 14 de react, *React* solo se encarga de la creacion de componentes y del manejo del DOM virtual, y dejo la dependencia de hacer render al DOM a otra libreria. Esto es util por que ahora es mas facil usar React en muchos ambientes como lo son Mobil y Escritorio.
+Desde la verion 14 de react, *React* solo se encarga de la creacion de componentes y del manejo del DOM virtual, y dejo la dependencia de hacer render al DOM a otra libreria. Esto es util por que ahora es mas facil usar React en muchos ambientes como lo son Mobil y Escritorio.

@@ -12,7 +12,7 @@ En este reto vas a crear un poco de flujo de control dentro de un componente de 
 
 ###Paso 1:
 
-Recuerdas el comoponente `Note` que creamos en el [Reto7](./Reto6). Vamos a seguir agregandole funcionalidades.
+Recuerdas el componente `Note` que creamos en el [Reto6](./Reto6). Vamos a seguir agregandole funcionalidades.
 
 Como primer paso trae tu codigo del reto 6 implementalo en el archivo `js/Note.js`
 
@@ -22,7 +22,7 @@ Y haz que la nota se vea en el navegador.
 
 Vamos a quitar todo el JSX que se encontraba dentro del metodo `render` y lo vamos a pasar a un metodo dento del componente que se llame `renderDisplay`.
 
-Luego dentro de render simplemente haz que el component haga render de lo que devuelva el metodo `renderDisplay` que deberia ser el JSX que acabamos de move.
+Luego dentro de render simplemente haz que el componente haga render de lo que devuelva el metodo `renderDisplay` que deberia ser el JSX que acabamos de mover.
 
 Tu aplicacion deberia seguir funcionando igual.
 

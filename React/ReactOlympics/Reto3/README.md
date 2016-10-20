@@ -1,4 +1,4 @@
-#De createElement a JSX
+ #De createElement a JSX
 
 ##Resumen
 
@@ -24,7 +24,7 @@ Con este comando instalamos el modulo de babel y el preset que convierte JSX a E
 
 ###Paso 3:
 
-Crea la carpeta `build` dentro de esta carpeta es donde vamos a dejar el codigo de ES5 que realmente entiendo el navegador y el que le vamos a mandar, solo que todavia no lo hemos creado.
+Crea la carpeta `build`. Dentro de esta carpeta es donde vamos a dejar el codigo de ES5 que realmente entiende el navegador y el que le vamos a mandar, solo que todavia no lo hemos creado.
 
 ve a la terminal y ejecuta el siguiente comando:
 

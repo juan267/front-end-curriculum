@@ -14,10 +14,10 @@ Para este reto estamos usando directamente babel 5 en el navegador de forma que 
 
 Crea un archivo llamado `app.js` el cual incluyas dentro del archivo `index.html`.
 
-Dentro del archivo `app.js` deberas crear un componente con el nombre que tu desees, el cual haga render de un `<div></div>` que contenga el text que nos pasaron por *this.props.text*.
+Dentro del archivo `app.js` deberas crear un componente con el nombre que tu desees, el cual haga render de un `<div></div>` que contenga muestre el valor que nos pasaron por *this.props.text*.
 
 ###Paso 2
 
-Haz render del componente que creaste *3* veces dentro del div `react-container`. Cada vez que hagas render del componente pasale `text` con un valor diferente.
+Haz render del componente que creaste *3* veces dentro del div `react-container`. Cada vez que hagas render del componente pasale el prop `text` con un valor diferente.
 
 Al final deberias ver en el navegador 3 frases diferentes.

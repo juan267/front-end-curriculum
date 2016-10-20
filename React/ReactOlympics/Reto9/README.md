@@ -4,7 +4,7 @@
 
 Hasta el momento hemos jugado solo con solo un componente el componente `Note`. Ahora que pasa cuando tenemos muchas notas, como sucede realmente en un tablero de notas. Necesitas un lugar donde ponerlas, mas especificamente necesitamos un componente `Board`.
 
-`Board` Es lo que se conoce como un componente `Container` o un `Smart Component` por que contiene mucho componentes hijos que van ser los `Note`.
+`Board` Es lo que se conoce como un componente `Container` o un `Smart Component` por que contiene muchos componentes hijos que van ser los `Note`.
 
 ##Pasos
 
@@ -37,7 +37,7 @@ El cual deberia tener dentro las 4 notas que tenemos en el estado.
 
 ###Paso 2:
 
-Acuerdate que React es solo javascript de modo que para poner las 4 notas lo unico que tenemos que hacer es iteras usando `map` sobre las notas del componente y para cada una crear el component `Note` con el texto de la nota que estamos iterando.
+Acuerdate que React es solo javascript de modo que para poner las 4 notas lo unico que tenemos que hacer es iterar usando `map` sobre las notas del componente y para cada una crear el component `Note` con el texto de la nota que estamos iterando.
 
 ###Paso 3:
 

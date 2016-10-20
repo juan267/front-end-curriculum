@@ -15,7 +15,7 @@ Ahora bien el navegador no tiene ni idea de que es JSX por lo cual tenemos que c
 
 En el archivo `index.html` vas a encontrar el esqueleto te una pagina web en el cual incluimos tanto React como Babel version 5.
 
-Tu reto es crear el componente `HelloReact usando `React.createClass` el cual haga render de un `<h1></h1>` con cualquier texto y un `<p></p>` con cualquier texto.
+Tu reto es crear el componente `HelloReact` usando `React.createClass` el cual haga render de un `<h1></h1>` con cualquier texto y un `<p></p>` con cualquier texto.
 
 ##Paso 2:
 

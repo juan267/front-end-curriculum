@@ -40,7 +40,7 @@ Para que ahora llamemos `Board` con la propiedad `count` la cual va a tener el v
 
 Dentro de component `Board` crea el metodo `componentWillMount`, esta funcion se va invocar automaticamente justo antes de que el componente se monte en el `DOM`.
 
-Dentro de esta funcion vamos a usar jquery para hacer un ajax request a la api de [Bacon ipsum](http://baconipsum.com/). Si te das cuenta incluimos jquey dentro del archivo `index.html`.
+Dentro de esta funcion vamos a usar jquery para hacer un ajax request a la api de [Bacon ipsum](http://baconipsum.com/). Si te das cuenta incluimos jquey dentro del archivo`index.html`.
 
 Dentro del metodo `componentWillMount` crea un `if` el cual solo debe ejecutarse cuando `count` esta dentro de los `props` del componente. en caso de que si este vamos a realizar este request de ajax:
 

@@ -12,7 +12,7 @@ El objetivo es que tu aplicacion funcionalmente quede identica a esta:
 
 Como puedes ver esta aplicacion contiene muchas cosas que actualmente no hemos desarrollado:
 
-- Las notas de se ubican con una rotacion aleatoria cuando son creadas
+- Las notas se ubican con una rotacion aleatoria cuando son creadas
 - Las notas se pueden Crear con el boton `+` de la esquina superior derecha
 - Las notas se pueden eliminar con el boton que tiene el icono de la caneca
 - Las notas son draggable

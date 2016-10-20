@@ -33,13 +33,13 @@ this.setState({
 })
 ```
 
-En este caso actulizamos el valor de `msg` por uno nuevo, cada vez que llamamos `setState` react actualiza el DOM con los cambios por lo cual vemos como la pagina se actualiza con el nuevo valor.
+En este caso actualizamos el valor de `msg` por uno nuevo, cada vez que llamamos `setState` react actualiza el DOM con los cambios por lo cual vemos como la pagina se actualiza con el nuevo valor.
 
 ##Pasos
 
 ###Paso 1:
 
-Crea el component `Checkbox` el cual debe tener una funcion `render` la cual muestra un `input` de tipo *checkbox* y estar por defecto `checkeado`. Tambien debe tener un `p` el cual por dentro tenga un texto que diga si el input esta checkeado o no.
+Crea el componente `Checkbox` el cual debe tener una funcion `render` la cual muestra un `input` de tipo *checkbox* y estar por defecto `checkeado`. Tambien debe tener un `p` el cual por dentro tenga un texto que diga si el input esta checkeado o no.
 
 ###Paso 2:
 
@@ -47,8 +47,5 @@ Usa `ReactDOM` el cual ya incluimos para hacer render de este comoponent dentro 
 
 ###Paso 3:
 
-Crea dentro del componente la funcion `handleCheckboxClick` la cual haga un `toggle` del estado del checkbox, osea si esta estaba checkeado que lo paso a no checkeado y viceversa. El texto del `p` tambien deberia actualizarse para reflejar el nuevo estado del `checkbox`
+Crea dentro del componente la funcion `handleCheckboxClick` la cual haga un `toggle` del estado del checkbox cuando se dispare el evento `onChange`. Por toggle nos referimos a que si estaba checkeado que lo pase a no checkeado y viceversa. El texto del `p` tambien deberia actualizarse para reflejar el nuevo estado del `checkbox, osea que diga` checked o unchecked.
 
-
-
-<!-- Crea un component Checkbox en el archivo index.js. Este component tiene que tener como estado la propiedad chechked la cual debe iniciar en false. El componente debe crear un p tag que muestre como texto 'State is not checked' si el estado checked es 'false' y 'State is checked' si el estado de checked es 'true'. Adicional dentro del componente agrega un input de typo 'chekbox' el cual al hacerle click debe disparar una funcion que le haga 'toggle' al estado de 'checked' -->

@@ -2,6 +2,10 @@ function foo () {
   return [1,2,3,[1,2,3,4]]
 }
 
+function names () {
+  return ['pepito','pepita','fulanito',['fuquensia','fuquensio','juan','gomez']]
+}
+
 //////////// Array Destructuring /////////////////
 
 // antes
@@ -12,6 +16,7 @@ var b = tmp[1] !== undefined ? tmp[1] ? 42
 var c = tmp[2]
 
 // despues
+var [a, b ...rest] = foo()
 
 var [
   a,
@@ -38,7 +43,6 @@ function foo () {
   }
 }
 
-
 var {
   a,
   b,
@@ -62,6 +66,55 @@ namedArgs({
   a: 1,
   b: 'hola'
 })
+
+
+
+
+var mongoClient = require('mongoDb').mongoClient
+
+var {mongoClient} = require('mongoDb')
+
+
+
+
+
+
+
+
+
+function Person(name, age) {
+  this.name = name
+  this.age = age
+}
+
+Person.prototype = {
+  sayHi: function() {
+    console.log(this.name)
+  }
+}
+
+class Person {
+  constructor() {
+    this.legs = 2
+  }
+}
+
+class Woman extends Person {
+  constructor(name, age) {
+    super()
+    this.name = name
+    this.age = age
+  }
+
+  sayHi() {
+    console.log(this.name)
+  }
+}
+
+var woman = new Woman('carolina', 26)
+
+
+
 
 
 

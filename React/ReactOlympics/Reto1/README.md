@@ -4,7 +4,7 @@
 
 React es una libreria de Javascript deserrollada por facebook.
 
-Es la respuesta de ellos a como manejar un app de front end extremadamente complejo. Hoy en dia Facebook usa React en su pagina, y otras aplicaciones como instagram, lo cual es un indicador de lo robusta que es esta libreria.
+Es la respuesta de ellos a como manejar un app de front end extremadamente complejo. Hoy en dia Facebook usa React en su pagina, y en otras aplicaciones como instagram, lo cual es un indicador de lo robusta que es esta libreria.
 
 ##Pasos
 

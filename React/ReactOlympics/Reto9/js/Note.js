@@ -4,15 +4,15 @@ var Note = React.createClass({
         return {editing: false}
     },
     edit: function() {
-        this.setState({editing: true});
+        this.setState({editing: true})
     },
     save: function() {
-        var val = this.refs.newText.getDOMNode().value;
-        alert("TODO: Save note value" + val);
-        this.setState({editing: false});
+        var val = this.refs.newText.value
+        alert("TODO: Save note value" + val)
+        this.setState({editing: false})
     },
     remove: function() {
-        alert('removing note');
+        alert('removing note')
     },
     renderDisplay: function() {
         return (
@@ -25,7 +25,7 @@ var Note = React.createClass({
                             className="btn btn-danger glyphicon glyphicon-trash"/>
                 </span>
             </div>
-            );
+            )
     },
     renderForm: function() {
         return (
@@ -38,13 +38,13 @@ var Note = React.createClass({
     },
     render: function() {
         if (this.state.editing) {
-            return this.renderForm();
+            return this.renderForm()
         }
         else {
-            return this.renderDisplay();
+            return this.renderDisplay()
         }
     }
-});
+})
 
 ReactDOM.render(<Note>Hello World</Note>,
-    document.getElementById('react-container'));
+    document.getElementById('react-container'))
