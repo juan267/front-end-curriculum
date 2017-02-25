@@ -2,18 +2,33 @@
   "todos": [
     {
       "text": "Sacar al perro",
-      "done": true,
+      "done": false,
       "id": 1
     },
     {
       "text": "Escribir codigo",
-      "done": false,
+      "done": true,
       "id": 2
     },
     {
       "text": "Ser el mejor maestro pokemon",
       "done": false,
       "id": 4
+    },
+    {
+      "text": "fsadfasd",
+      "done": false,
+      "id": 5
+    },
+    {
+      "text": "fgsfdgsd",
+      "done": false,
+      "id": 6
+    },
+    {
+      "text": "hj",
+      "done": false,
+      "id": 7
     }
   ]
 }
