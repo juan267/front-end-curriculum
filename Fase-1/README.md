@@ -1,8 +1,8 @@
-##Fase 1
+## Fase 1
 
-###Semana 1
+### Semana 1
 
-####Lunes
+#### Lunes
 
 - Intruduccion al Curso
 - Clase: `Que es ser un desarrollador Front-end`
@@ -10,7 +10,7 @@
 - [Javascript Olympics](../javascript/prework/javascript-olympics)
 - [Linear-search](../javascript/algoritmos/linear-search)
 
-####Martes
+#### Martes
 
 - Clase: `Creacion de Algoritmos en js, conceptos basicos`
 
@@ -18,50 +18,50 @@
 - [Roman-Numerals](../javascript/algoritmos/roman-numerals)
 
 
-####Miercoles
+#### Miercoles
 - Clase: `Scope en javascript`
 - [Scope](../javascript/scope/scope)
 - [ABC-Scope](../javascript/scope/ABCscope)
 - Termina Cualquier reto que te falte de la semana
 
 
-####Jueves
+#### Jueves
 
 - Clase: `Object Oriented programing in javascript`
 - [Notes](../javascript/OOP/notes)
 - [numbers-in-words](../javascript/algoritmos/numbers-in-words)
 - [Garden](../javascript/OOP/garden)
 
-####Viernes
+#### Viernes
 - Clase: `Flexbox y CSS en general`
 - [Cards](../CSS/Flexbox/Cards)
 - [Layouts](../CSS/Flexbox/Layouts)
 - [Menus](../CSS/Flexbox/Menus)
 
 
-###Semana 2
+### Semana 2
 
-####Lunes
+#### Lunes
 - Clase: `Functional js`
 - [Callbacks](../javascript/functionalJs/callbacks)
 - [iterators](../javascript/functionalJs/iterators)
 - [closures](../javascript/functionalJs/closures)
 
-####Martes
+#### Martes
 - Clase: `Arquitectura MVC`
 - [Javascript-racer](../javascript/DOM-apps/javascript-racer)
 
 
-####Miercoles
+#### Miercoles
 - Clase: `DOM y Eventos`
 - [Dados](../javascript/DOM-apps/Dices)
 - [Orange-Tree](../javascript/DOM-apps/orange-treeDOM)
 
-####Jueves
+#### Jueves
 - [Orange-Tree](../javascript/DOM-apps/orange-treeDOM)
 
 
-####Viernes
+#### Viernes
 - [Projecto](../javascript/proyecto/connect4)
 
 
@@ -70,36 +70,33 @@
 - Tarea [Entendiendo Express](http://evanhahn.com/understanding-express/)
 - Tarea [Express](https://zellwk.com/blog/crud-express-mongodb/)
 
-###Semana 3
+### Semana 3
 
-####Lunes
+#### Lunes
 - [Projecto](../javascript/proyecto/connect4)
 
-####Martes
+#### Martes
 - Clase: `Intro a Node`
 - [File-System](../node/fileSystem)
 - [Globals](../node/Globals)
 - [HTTP](../node/http)
 
-####Miercoles
+#### Miercoles
 - Clase: `Intro a Mongo`
 - [CRUD](../mongo/CRUD)
 - Clase: `Intro a express y npm`
 - [Mongo Node Driver](../mondo/nodeDriver/mongoDB-driver)
 - [Express-Mongo](../mondo/nodeDriver/express-mongo-app)
 
-####Jueves
+#### Jueves
 - Clase: `Express a fondo`
 - [Abuela Sorda](../express/deafGrandma)
 - [Racer backend](../express/racerBackend)
 - (opcional) [Hacker-news-completo](../express/hackerNews)
 
 
-####Viernes
+#### Viernes
 - Clase: `ES6`
 - [Arrow Function](../javascript/ES6/arrowFunction)
 - [Destructuring](../javascript/ES6/destructuring)
 - [Spred-Rest](../javascript/ES6/spreadRest)
-
-
-

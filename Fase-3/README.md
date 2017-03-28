@@ -1,47 +1,45 @@
-##Fase 2
+## Fase 3
 
-###Semana 1
+### Semana 1
 
-####Lunes
+#### Lunes
 - Clase: `Intro a Angular`
 - Terminar Retos de Angular en la plataforma
 
-####Martes
+#### Martes
 - [Notas De nuevo!](../Angular/notes-again!)
 
-####Miercoles
+#### Miercoles
 Dia muerto por puente
 
-####Jueves
+#### Jueves
 - [Proyecto](../Angular/proyecto)
 
-####Virnes
-- Continuar trabajand proyecto
+#### Viernes
+- Continuar trabajando proyecto
 
 
 
-###Semana 2
+### Semana 2
 
-####Lunes
+#### Lunes
 - Clase: `Intro a Ionic`
 - Crear Retos
 
-####Martes
-Por definar
+#### Martes
+Por definir
 
-####Miercoles
+#### Miércoles
 Por Definir
 
-####Jueves
-Por Definir
-
-
-####Viernes
+#### Jueves
 Por Definir
 
 
-###Semana 3
+#### Viernes
+Por Definir
+
+
+### Semana 3
 
 Toda esta semana esta dedicada a crear el proyecto Final en Grupos.
-
-

@@ -1,8 +1,8 @@
-##Fase 2
+## Fase 2
 
-###Semana 1
+### Semana 1
 
-####Lunes
+#### Lunes
 
 - (opcional) [Hacker-news-completo](../express/hackerNews)
 - Clase: `AJAX, y Protocolo HTTP`
@@ -10,7 +10,7 @@
 - [HackerNewsAjax](../express/hackerNewsAjax)
 
 
-####Martes
+#### Martes
 - Clase: `ES6`
 - [Arrow Function](../javascript/ES6/arrowFunction)
 - [Destructuring](../javascript/ES6/destructuring)
@@ -19,11 +19,11 @@
 - Clase: `Intro a React`
 - [Olimpiadas de React](../React/ReactOlympics)
 
-####Miercoles
+#### Miercoles
 
 - Continua trabjando en React Olympics
 
-####Jueves
+#### Jueves
 - Clase: `Webpack Intro`
 - [Usando Webpack](../webpack/usando-webpack)
 - [Transpilando ES6](../webpack/transpilando-es6)
@@ -33,7 +33,7 @@
 - [Webpack DevServer](../webpack/webpack-dev-server)
 - [Migra React Notes](../webpack/migra-proyecto-react)
 
-####Virnes
+#### Virnes
 
 - Clase: `React Router`
 - [Tutorial](https://github.com/reactjs/react-router-tutorial)
@@ -41,15 +41,15 @@
 - [Meme Generator](../javascript/algoritmos/numbers-in-words)
 
 
-###Semana 2
+### Semana 2
 
-####Lunes
+#### Lunes
 - [Proyecto](../React/proyecto)
 
 ####Martes
 
 
-####Miercoles
+#### Miercoles
 - Clase: `Webpack Intro`
 - [Usando Webpack](../webpack/usando-webpack)
 - [Transpilando ES6](../webpack/transpilando-es6)
@@ -60,34 +60,32 @@
 - [Migra React Notes](../webpack/migra-proyecto-react)
 
 
-####Jueves
+#### Jueves
 - Clase: `React Router`
 - [Tutorial](https://github.com/reactjs/react-router-tutorial)
 - Clase: `API y Fetch`
 - [Meme Generator](../javascript/algoritmos/numbers-in-words)
 
 
-####Viernes
+#### Viernes
 - [Proyecto](../React/proyecto)
 
 
-###Semana 3
+### Semana 3
 
-####Lunes
+#### Lunes
 Dia muerto por puente
 
 ####Martes
 - Continua trabjando en el proyecto
 
 
-####Miercoles
+#### Miercoles
 - Clase: `React Native intro`
 - [Convert Todo App](../react-native/convertTodoApp)
 
-####Jueves
-
-
-####Viernes
+#### Jueves
 Por Definir
 
-
+#### Viernes
+Por Definir
